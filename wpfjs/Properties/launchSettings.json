@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ClearScriptEngine": {
+      "commandName": "Project",
+      "commandLineArgs": "-d C:\\Users\\03302996\\Documents\\scripts\\clear\\main.js"
+    }
+  }
+}

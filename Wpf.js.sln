@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wpfjs", "wpfjs\wpfjs.csproj", "{365179FD-7B8D-44B5-AD16-5311C314CEC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{365179FD-7B8D-44B5-AD16-5311C314CEC9}.Debug|x64.ActiveCfg = Debug|x64
+		{365179FD-7B8D-44B5-AD16-5311C314CEC9}.Debug|x64.Build.0 = Debug|x64
+		{365179FD-7B8D-44B5-AD16-5311C314CEC9}.Release|x64.ActiveCfg = Release|x64
+		{365179FD-7B8D-44B5-AD16-5311C314CEC9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3605260-E59E-4AC7-A3DE-BB2BD3771989}
+	EndGlobalSection
+EndGlobal
