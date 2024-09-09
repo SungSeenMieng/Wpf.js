@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using System.Windows.Data;
 using System.Windows;
 using wpfjs;
+using wpfjs.Mvvm;
 
 namespace wpfjs.HostClass
 {
